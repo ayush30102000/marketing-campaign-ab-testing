@@ -1,4 +1,4 @@
-# Marketing Campaign Analysis (A/B Testing) — Analyst Portfolio Project
+# Marketing Campaign Analysis (A/B Testing)
 
 This project evaluates the effectiveness of two digital advertising channels — Facebook and Google AdWords — across 2019 using a daily time-series dataset. It is designed to demonstrate analytical depth and business storytelling aligned to Product Analyst, Business Analyst, and Data Analyst roles.
 
